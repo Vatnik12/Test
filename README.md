@@ -22,7 +22,7 @@
 ```bash
 python -m venv .venv
 source .venv/bin/activate
-pip install dnspython requests
+pip install -r requirements.txt
 ```
 
 ## 1) Проверка email-доменов
